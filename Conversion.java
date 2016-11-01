@@ -14,7 +14,7 @@ public class Conversion{
 		}
 		else if(corf.equals("C")){
 			double f = temp*1.8+32;
-			System.out.printf("%.1f F", f);
+			System.out.printf("%.1f F", f); 
 		}
 	}
 }
