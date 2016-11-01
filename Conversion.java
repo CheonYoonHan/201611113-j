@@ -16,5 +16,6 @@ public class Conversion{
 			double f = temp*1.8+32;
 			System.out.printf("%.1f F", f); 
 		}
+		
 	}
 }
