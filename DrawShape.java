@@ -8,6 +8,7 @@ public class DrawShape{
 	int size=100;
 	int sides;
 	double angle;
+	
 
 	public DrawShape(){
 		switch (sel) {
